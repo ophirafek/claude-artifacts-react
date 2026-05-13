@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import React, { useState, useRef } from "react";
 import { X, ChevronDown, ChevronUp, Save, Edit, Plus, Trash, MapPin, Building, Home, Briefcase, Phone, Mail, Calendar, Clock, AlertTriangle, Star, FileText, History } from "lucide-react";
 
 const P = {
