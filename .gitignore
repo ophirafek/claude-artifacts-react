@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Uploaded artifacts (stored by the dev-server plugin)
+artifacts
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
